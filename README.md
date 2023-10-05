@@ -1,1 +1,1 @@
-# BinaryWord
+# Convert word to binary
